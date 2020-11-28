@@ -1,8 +1,0 @@
-type: LiquidSource
-name: Infinity Liquid
-description: "I am [blue]444[]"
-health: 444
-category: liquid
-liquidCapacity: 100
-buildVisibility: shown
-alwaysUnlocked: true
