@@ -1,0 +1,13 @@
+type: Wall
+name: Large Infinity Wall
+description: "I am [yellow]Large 444[]"
+health: 444444
+size: 2
+requirement: [
+]
+lightningChance: 20
+lightningDamage: 4888
+lightningLength: 54
+category: defense
+buildVisibility: shown
+alwaysUnlocked: true
