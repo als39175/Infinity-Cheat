@@ -1,0 +1,10 @@
+type: PowerSource
+name: Infinity Power
+description: "I am [blue]444[]"
+health: 444
+maxNodes: 100
+consumesPower: false
+outputsPower: true
+category: power
+buildVisibility: shown
+alwaysUnlocked: true

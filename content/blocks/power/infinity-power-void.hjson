@@ -1,0 +1,7 @@
+type: PowerVoid
+name: Infinity Power Void
+description: "I am [blue]444[]"
+health: 444
+category: power
+alwaysUnlocked: true
+buildVisibility: shown
