@@ -1,0 +1,7 @@
+type: ItemVoid
+name: Infinity Item Void
+description: "I am [blue]444[]"
+health: 444
+category: distribution
+alwaysUnlocked: true
+buildVisibility: shown
