@@ -1,0 +1,7 @@
+type: ItemSource
+name: Infinity Item
+description: "I am [blue]444[]"
+health: 444
+category: distribution
+buildVisibility: shown
+alwaysUnlocked: true

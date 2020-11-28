@@ -1,0 +1,39 @@
+type: Separator
+name: Infinity Items V2
+description: "Get all item from it and I am [cyan]444[]"
+health: 444
+itemCapacity: 444444444
+liquidCapacity: 0
+category: distribution
+size: 1
+hasPower: false
+hasItems: true
+hasLiquid: true
+craftTime: 1
+updateEffect: smeltsmoke
+hasShadow: true
+idleSound: drill
+idleSoundVolume: 1
+requirements: [
+]
+consumes: {
+}
+results: [
+    copper/3
+    lead/3
+    graphite/3
+    metaglass/3
+    coal/3
+    sand/3
+    titanium/3
+    silicon/3
+    scrap/3
+    thorium/3
+    plastanium/3
+    phase-fabric/3
+    surge-alloy/3
+    spore-pod/3
+    pyratite/3
+    blast-compound/3
+]
+alwaysUnlocked: true
