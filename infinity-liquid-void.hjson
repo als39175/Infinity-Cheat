@@ -1,7 +1,0 @@
-type: LiquidVoid
-name: Infinity Liquid Void
-description: "I am [blue]444[]"
-health: 444
-category: liquid
-alwaysUnlocked: true
-buildVisibility: shown
