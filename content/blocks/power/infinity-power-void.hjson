@@ -4,4 +4,5 @@ description: "I am [blue]444[]"
 health: 444
 category: power
 alwaysUnlocked: true
+buildTime: 0
 buildVisibility: shown
