@@ -5,6 +5,7 @@ health: 444
 maxNodes: 100
 consumesPower: false
 outputsPower: true
+buildTime: 0
 category: power
 buildVisibility: shown
 alwaysUnlocked: true
